@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">End_poject</string>
+
+    <string name="btn_settings">설정 열기</string>
+</resources>
